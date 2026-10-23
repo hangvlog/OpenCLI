@@ -1,0 +1,87 @@
+{
+  "runtimeNode": "22.22.0",
+  "typescript": "5.9.3",
+  "tsx": "4.21.0",
+  "dependencies": [
+    {
+      "name": "@colors/colors",
+      "version": "1.5.0",
+      "packageSha256": "fe58f1ce2ed2be1ecd7fce134676372eb4949e2ba0d7d91d41b8f34a988e9576"
+    },
+    {
+      "name": "@mixmark-io/domino",
+      "version": "2.2.0",
+      "packageSha256": "2190c3aeea2de40b2a9afcbee22d0603e91b1a490ab2e24387b251e75a5ab77a"
+    },
+    {
+      "name": "@mozilla/readability",
+      "version": "0.6.0",
+      "packageSha256": "03c0d0f4786f73f1928024baa179f7e5a363da9f819368253de4c3d712ddf632"
+    },
+    {
+      "name": "ansi-regex",
+      "version": "5.0.1",
+      "packageSha256": "8b2dc166f2b74d5098bad38bdd3dd2f4d4775c626199872f5e36dbb48c40931d"
+    },
+    {
+      "name": "argparse",
+      "version": "2.0.1",
+      "packageSha256": "688bace28e14392b3a1c4137eb56bc48b684dbf5cb56278ed7056cd2ece07990"
+    },
+    {
+      "name": "cli-table3",
+      "version": "0.6.5",
+      "packageSha256": "01b02a357f85512f725bdb668b08567a2217695c2ef0e43cc6ee9678db3b979e"
+    },
+    {
+      "name": "commander",
+      "version": "14.0.3",
+      "packageSha256": "abcadf3d5575510b0ebcc9c04d39a838b01a5932861cf2454beb985eae4b4ea3"
+    },
+    {
+      "name": "emoji-regex",
+      "version": "8.0.0",
+      "packageSha256": "7bec29b9ca68f2c4becc60e866c2f9342ecdc89fab39841a818ccd9eda15c148"
+    },
+    {
+      "name": "is-fullwidth-code-point",
+      "version": "3.0.0",
+      "packageSha256": "5b48496ca129073ed44a677b777ea3b91366c8bc228bc75fe858749a78ac1a32"
+    },
+    {
+      "name": "js-yaml",
+      "version": "4.3.1",
+      "packageSha256": "82b932c87c5da7901c6a8f984698c57912570146fffd3156dcdc96a6c210d847"
+    },
+    {
+      "name": "string-width",
+      "version": "4.2.3",
+      "packageSha256": "6457a02418f004fe5d3fbbb19c7cbcc1450a8b887ff9a471dc6985ac83a48d36"
+    },
+    {
+      "name": "strip-ansi",
+      "version": "6.0.1",
+      "packageSha256": "0130850b9da0584f54cc20d3dab6365c807e9436ac78e016d5009efa99bd0530"
+    },
+    {
+      "name": "turndown",
+      "version": "7.2.4",
+      "packageSha256": "333b1738ad3079742aaf7be7d8b0f0bec2661c44fb49cfeff80b66ce4cb3e040"
+    },
+    {
+      "name": "turndown-plugin-gfm",
+      "version": "1.0.2",
+      "packageSha256": "f09037fb0ca31e3c83ce301a836d9dfa70081c8de7bde70eaf8f5d22d3606a53"
+    },
+    {
+      "name": "undici",
+      "version": "6.28.0",
+      "packageSha256": "f529aa8b145f6e270a72700ceb6c8dd3b87f742313078ea9f774a9d2ce8c865d"
+    },
+    {
+      "name": "ws",
+      "version": "8.21.3",
+      "packageSha256": "a56a3fd55945a3ce177e3ca165dafae6f7eb03b7aefd58c092ac723d5741a6fb"
+    }
+  ]
+}
